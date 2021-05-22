@@ -13,6 +13,7 @@ public class MapTest {
         this.crimeTable = new TreeMap<>();
 
 
+
         crimeTable.put("Little Newark", littleNewarkCc);
         crimeTable.put("Springfield Heights", springFieldHeightsCc);
         crimeTable.put("Sqidport", sqidPortCc);
